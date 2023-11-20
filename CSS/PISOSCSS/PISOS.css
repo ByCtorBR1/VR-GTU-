@@ -1,0 +1,397 @@
+/*PISOS*/
+#arqui{
+    background-image: url("/IMG/Arqui2.jpg");
+    padding: 9rem 3rem;
+    margin: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.357);
+    background-blend-mode: soft-light;
+    background-position: center;
+    color: #fff;
+    font-size: 20px;
+    transition: all .6s ease;
+    margin-bottom: 20px;
+}
+#arqui>h1:hover{
+    color: #ec7424;
+    transform: scale(1.1);
+    transition: all .6s ease 0s;
+}
+#enf1{
+    background-image: url("/IMG/Medicina2.jpg");
+    padding: 9rem 3rem;
+    margin: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.357);
+    background-blend-mode: soft-light;
+    background-position: center;
+    color: #fff;
+    font-size: 20px;
+    transition: all .6s ease;
+    margin-bottom: 20px;
+}
+#enf1>h1:hover{
+    color: #ec7424;
+    transform: scale(1.1);
+    transition: all .6s ease 0s;
+}
+#NL1{
+    background-image: url("/IMG/Nutricion.jpg");
+    padding: 9rem 3rem;
+    margin: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.357);
+    background-blend-mode: soft-light;
+    background-position: center;
+    color: #fff;
+    font-size: 20px;
+    transition: all .6s ease;
+    margin-bottom: 20px;
+}
+#NL1>h1:hover{
+    color: #ec7424;
+    transform: scale(1.1);
+    transition: all .6s ease 0s;
+}
+#ce1{
+    background-image: url("/IMG/crimi.jpg");
+    padding: 9rem 3rem;
+    margin: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.357);
+    background-blend-mode: soft-light;
+    background-position: center;
+    color: #fff;
+    font-size: 20px;
+    transition: all .6s ease;
+    margin-bottom: 20px;
+}
+#ce1>h1:hover{
+    color: #ec7424;
+    transform: scale(1.1);
+    transition: all .6s ease 0s;
+}
+#OF1{
+    background-image: url("/IMG/Oficina1.png");
+    padding: 9rem 3rem;
+    margin: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.357);
+    background-blend-mode: soft-light;
+    background-position: center;
+    color: #fff;
+    font-size: 20px;
+    transition: all .6s ease;
+    margin-bottom: 20px;
+}
+#OF1>h1:hover{
+    color: #ec7424;
+    transform: scale(1.1);
+    transition: all .6s ease 0s;
+}
+#co1{
+    background-image: url("/IMG/Computacion.png");
+    padding: 9rem 3rem;
+    margin: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.357);
+    background-blend-mode: soft-light;
+    background-position: center;
+    color: #fff;
+    font-size: 20px;
+    transition: all .6s ease;
+    margin-bottom: 20px;
+}
+#co1>h1:hover{
+    color: #ec7424;
+    transform: scale(1.1);
+    transition: all .6s ease 0s;
+}
+#c1{
+    background-image: url("/IMG/Ciencias.png");
+    padding: 9rem 3rem;
+    margin: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.357);
+    background-blend-mode: soft-light;
+    background-position: center;
+    color: #fff;
+    font-size: 20px;
+    transition: all .6s ease;
+    margin-bottom: 20px;
+}
+#c1>h1:hover{
+    color: #ec7424;
+    transform: scale(1.1);
+    transition: all 0.6s ease 0s;
+}
+#au1{
+    background-image: url("/IMG/Auditorio.jpg");
+    padding: 9rem 3rem;
+    margin: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.357);
+    background-blend-mode: soft-light;
+    background-position: center;
+    color: #fff;
+    font-size: 20px;
+    transition: all .6s ease;
+    margin-bottom: 20px;
+}
+#au1>h1:hover{
+    color: #ec7424;
+    transform: scale(1.1);
+    transition: all .6s ease 0s;
+}
+article{
+    display: flex;
+}
+.sec1{
+    background-color: #fff;
+    width: 400px;
+    height: auto;
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+    margin-left: 9px;
+    margin-right: 9px;
+}
+.sec1:hover{
+    background-color: #ec7424;
+    color: #fff;
+    transition: all .3s ease 0s;
+}
+.sec2{
+    background-color: #fff;
+    width: 400px;
+    height: auto;
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+    margin-left: 9px;
+    margin-right: 9px;
+    border-radius: 15px;
+}
+.sec2>ul{
+    margin-left: 10px;
+    text-align: left;
+}
+.sec2>p{
+    font-size: 20px;
+}
+#gtufont{
+    font-size: 20px;
+}
+.sec2:hover{
+    background-color: #183088;
+    color: #fff;
+    transition: all .3s ease 0s;
+}
+iframe{
+    width: 100%;
+    border-radius: 0 0 20px 20px;
+    height: 350px;
+}
+.sec3{
+    padding: 20px;
+}
+.sec3>iframe{
+    width: 100%;
+}
+.arqu1>h1{
+    margin-top: 20px;
+}
+.arqu1>img{
+    margin-top: 30px;
+}
+.arqu1>p{
+    margin-bottom: 20px;
+}
+#ju{
+    background-image: url(/IMG/juicio.png);
+    margin: center;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.357);
+    background-blend-mode: soft-light;
+    padding: 7rem;
+    color: #fff;
+    font-size: 29px;
+    transition: all .6s ease 0s;
+    margin-bottom: 20px;
+}
+#ju>h1:hover{
+    color: #ec7424;
+    transform: scale(1.1);
+    transition: all .6s ease 0s;
+}
+#recorrido{
+    background-image: url(/IMG/juicio.png);
+    margin: center;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.357);
+    background-blend-mode: soft-light;
+    padding: 7rem;
+    color: #fff;
+    font-size: 29px;
+    transition: all .6s ease 0s;
+}
+#recorrido>h1:hover{
+    color: #ec7424;
+    transform: scale(1.1);
+    transition: all .6s ease 0s;
+}
+.Text2{
+    max-width: 100%;
+    margin: 20px auto;
+    font-size: 23px;
+    margin-top: 10px;
+    padding: 20px;
+    background-color: #ec7424;
+    color: #ffffff;
+}
+.Text2>p{
+    padding: 20px 20px;
+}
+.Text2>p>strong{
+    text-transform: uppercase;
+}
+.Text2:hover{
+    background-color: #183088;
+    transition: all 0.6s;
+}
+.Text2>.iconos{
+    width: 300px;
+    margin: -100px auto;
+    float: right;
+    margin-right: 20px;
+    align-items: center;
+    background-color: #ececec;
+    padding: 1px;
+    border-radius: 50%;
+    z-index: 2;
+}
+.iconos{
+    transform: rotateY('1');
+    transition: all .6s;
+    z-index: 2;
+}
+/*RESPONSIVE*/
+@media screen and (max-width: 800px) {
+    #arqui{
+        background-color: rgba(0, 0, 0, 0.548);
+        padding: 5rem;
+        font-size: 14px;
+        transition: all .6s ease;
+    }
+    #enf1{
+        background-color: rgba(0, 0, 0, 0.548);
+        padding: 5rem;
+        font-size: 14px;
+        transition: all .6s ease;
+    }
+    #ce1{
+        background-color: rgba(0, 0, 0, 0.548);
+        padding: 5rem;
+        font-size: 14px;
+        transition: all .6s ease;
+    }
+    #NL1{
+        background-color: rgba(0, 0, 0, 0.548);
+        padding: 5rem;
+        font-size: 14px;
+        transition: all .6s ease;
+    }
+    #OF1{
+        background-color: rgba(0, 0, 0, 0.548);
+        padding: 5rem;
+        font-size: 14px;
+        transition: all .6s ease;
+    }
+    #au1{
+        background-color: rgba(0, 0, 0, 0.548);
+        padding: 5rem;
+        font-size: 14px;
+        transition: all .6s ease;
+    }
+    #co1{
+        background-color: rgba(0, 0, 0, 0.548);
+        padding: 5rem;
+        font-size: 14px;
+        transition: all .6s ease;
+    }
+    #c1{
+        background-color: rgba(0, 0, 0, 0.548);
+        padding: 5rem;
+        font-size: 14px;
+        transition: all .6s ease;
+    }
+    #recorrido{
+        background-color: rgba(0, 0, 0, 0.548);
+        padding: 5rem;
+        font-size: 20px;
+        transition: all .6s ease;
+    }
+    #ju{
+        background-color: rgba(0, 0, 0, 0.548);
+        padding: 5rem;
+        font-size: 20px;
+        transition: all .6s ease;
+    }
+    .sec1{
+        margin-bottom: 10px;
+        width: auto;
+        height: auto;
+        margin-left: 9px;
+        margin-right: 9px;
+    }
+    .sec2{
+        margin-top: 20px;
+        width: auto;
+        height: auto;
+        margin-left: 9px;
+        margin-right: 9px;
+        border-radius: 20px 20px 0 0;
+    }
+    .sec1>p{
+        font-size: 15px;
+    }
+    .sec1>h1{
+        font-size: 20px;
+    }
+    .sec2>h1{
+        font-size: 20px;
+    }
+    .sec2>ul>li{
+        font-size: 15px;
+    }
+    iframe{
+        height: 300px;
+    }
+    .sec3{
+        padding: 12px;
+    }
+    article{
+        display: inherit;
+    }
+    .Text2{
+        border-radius: 0 0 20px 20px;
+    }
+    .Text2>.iconos{
+        width: 100%;
+        height: auto;
+        margin: 20px auto;
+        float: left;
+        margin-right: 1px;
+        transform: scaleY(1);
+        transition: all .6s;
+        z-index: 1;
+    }
+    .Text2>p{
+        margin-top: 230px;
+        text-align: center;
+        font-size: 20px;
+    }
+}
