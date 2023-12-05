@@ -929,6 +929,9 @@ iframe{
         margin-top: 20px;
     }
     #Text5{
-        margin-left: -0px;
+        margin-left: 9px;
+        margin-right: 9px;
+        width: auto;
+        height: auto;
     }
 }
