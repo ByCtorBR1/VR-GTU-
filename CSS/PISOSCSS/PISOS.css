@@ -253,7 +253,7 @@ iframe{
     color: #ffffff;
 }
 .Text2>p{
-    overflow: auto;
+    overflow-y: visible;
     padding: 20px 20px;
 }
 .Text2>p>strong{
