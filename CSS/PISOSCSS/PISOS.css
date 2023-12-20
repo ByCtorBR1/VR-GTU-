@@ -276,6 +276,9 @@ iframe{
     border-radius: 50%;
     z-index: 2;
 }
+.pre{
+    margin-top: -20px;
+}
 .iconos{
     transform: rotateY('1');
     transition: all .6s;
