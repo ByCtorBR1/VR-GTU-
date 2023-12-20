@@ -253,6 +253,7 @@ iframe{
     color: #ffffff;
 }
 .Text2>p{
+    scroll-behavior: auto;
     padding: 20px 20px;
 }
 .Text2>p>strong{
