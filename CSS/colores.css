@@ -98,6 +98,8 @@ body{
     color: #ec7424;
 }
 #par>h1{
+    color: white;
+    padding: 20px;
     background-color: #ec7424;
 }
 header>.overlay a{
