@@ -97,6 +97,9 @@ body{
     transition: all .5s;
     color: #ec7424;
 }
+#par>h1{
+    background-color: #ec7424;
+}
 header>.overlay a{
     font-size: 36px;
     display: block;
