@@ -252,8 +252,10 @@ iframe{
     background-color: #ec7424;
     color: #ffffff;
 }
+.Text2:first-child{
+    overflow: scroll;
+}
 .Text2>p{
-    overflow-y: visible;
     padding: 20px 20px;
 }
 .Text2>p>strong{
